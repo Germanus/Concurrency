@@ -1,4 +1,4 @@
-package my.ilya.thinking;
+package my.ilya.basic;
 
 
 /**

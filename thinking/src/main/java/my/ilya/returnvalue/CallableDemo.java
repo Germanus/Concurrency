@@ -1,4 +1,4 @@
-package my.ilya.thinking.returnvalue;
+package my.ilya.returnvalue;
 
 import java.util.ArrayList;
 import java.util.concurrent.*;
