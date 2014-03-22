@@ -1,5 +1,5 @@
 package my.ilya.thinking;
-import
+
 
 /**
  * @author Kazakevich Ilya
@@ -7,7 +7,7 @@ import
 public class FibonacciThread implements Runnable{
 
     public FibonacciThread(int n){
-        Fibonacci f = new Fibonacci();
+     //   Fibonacci f = new Fibonacci();
     }
 
     @Override
