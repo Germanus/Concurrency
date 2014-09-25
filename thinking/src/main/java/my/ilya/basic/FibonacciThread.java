@@ -10,7 +10,6 @@ public class FibonacciThread implements Runnable{
      //   Fibonacci f = new Fibonacci();
     }
 
-    @Override
     public void run() {
 
     }

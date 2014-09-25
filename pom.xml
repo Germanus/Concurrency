@@ -10,6 +10,13 @@
     <modules>
         <module>thinking</module>
     </modules>
+	
+	<dependency>
+	<groupId>net.jcip</groupId>
+	<artifactId>jcip-annotations</artifactId>
+	<version>1.0</version>
+	</dependency>
+
 
     <packaging>pom</packaging>
     <name>Concurrency</name>
